@@ -1,5 +1,5 @@
 <?php
-//Script by: evilbudz - nzquakes.design
+// Script by: evilbudz - nzquakes.design
 // PHP Script to get Earth Quake JSON data from GeoNet
 if ( !empty($_GET['ajax']) ) {
 	// Let's create a new cURL resource handle
